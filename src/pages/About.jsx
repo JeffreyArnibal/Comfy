@@ -14,7 +14,7 @@ const About = () => {
             </div>
          </div>
          <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, corporis. Nostrum alias sed dolor ipsam doloremque eum quidem nobis quia!
+            We are dedicated to providing you with an exceptional online shopping experience, offering a wide range of high-quality products at competitive prices. Whether you're looking for the latest fashion trends, cutting-edge electronics, home essentials, or unique gifts, we have something for everyone.
          </p>
       </>
    )

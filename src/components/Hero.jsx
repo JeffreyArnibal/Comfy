@@ -16,7 +16,7 @@ const Hero = () => {
                We are changing the way people shop
             </h1>
             <p className="mt-8 max-w-xl text-lg leading-8">
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia rerum possimus cumque culpa ipsum a! Nulla eligendi doloribus tenetur non!
+               Join our community of savvy shoppers and discover exclusive deals, special promotions, and the latest arrivals. Start exploring today and experience the convenience of shopping from the comfort of your home with comfy store.
             </p>
             <div className="mt-10">
                <Link to='/products' className='btn btn-primary'>
